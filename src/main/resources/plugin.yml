@@ -1,0 +1,5 @@
+name: prevent-clear-command
+version: ${project.version}
+api-version: 1.15
+main: preventclearcommand.PreventClearCommandPlugin
+author: DrHenchman
